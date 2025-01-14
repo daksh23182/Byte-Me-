@@ -1,0 +1,9 @@
+burger,50.0,snacks,true
+coke,30.0,beverages,true
+fries,60.0,snacks,true
+ice cream,70.0,desserts,true
+pasta,150.0,main course,true
+pizza,50.0,snacks,false
+salad,100.0,appetizers,true
+sandwich,80.0,snacks,true
+tea,50,beverages,true
